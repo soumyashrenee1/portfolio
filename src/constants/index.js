@@ -213,6 +213,20 @@ const experiences = [
     points: [],
   },
   {
+    title: "AI Consultant",
+    company_name: "Freelance",
+    icon: agents,
+    iconBg: "#E6DEDD",
+    date: "March 2026 - ongoing",
+    points: [
+      "Delivered end-to-end AI products for clients, from understanding requirements and planning the solution to building, testing, and handing over working systems.",
+      "Built an agentic marketing system that helped automate campaign ideas, content workflows, lead handling, and marketing decision support.",
+      "Developed a sales CRM solution to manage customer data, track leads, improve follow-ups, and support sales operations.",
+      "Created an assignment-checking system for TAFE use cases, helping review student work more efficiently while keeping the process clear and practical for users.",
+      "Received positive client feedback for being reliable, easy to work with, and able to turn ideas into useful working products.",
+    ],
+  },
+  {
     title: "Software Developer (Consultant)",
     company_name: "Deloitte USI",
     icon: starbucks,

@@ -22,7 +22,7 @@ const Contact = () => {
 <div className="flex items-center gap-4">
             <span className="text-[24px]">📄</span>
             <a 
-              href="https://drive.google.com/file/d/1mV1gHRDbTl8TntkgbHNujVCNhYWLGoR9/view?usp=sharing" 
+              href="https://drive.google.com/file/d/19L8AN7mE0Ubz-PZ0yu1QwYH24ZAPGxv5/view?usp=sharing"
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-[#915EFF] transition"
