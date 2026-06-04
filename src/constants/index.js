@@ -44,6 +44,7 @@ import {
   ocr,
   postgres,
   agents,
+  crm,
 } from "../assets";
 
 export const navLinks = [
@@ -394,6 +395,19 @@ const projects2 = [
     tags: [],
     image: agents,
     source_code_link: "",
+  },
+  {
+    name: "Sales CRM",
+    description: [
+      " Built a sales CRM solution to manage customer data and centralize client records in one place.",
+      " Implemented lead tracking and follow-up management to keep the sales pipeline organized.",
+      " Streamlined day-to-day sales operations with clear, practical workflows for the team.",
+      " Designed an intuitive interface focused on usability and quick adoption by end users.",
+      " Built an AI-powered intelligent system that scores and prioritizes leads, predicts deal-closing probability, recommends next-best actions, drafts personalized follow-up messages, and summarizes customer interactions to drive smarter, faster sales decisions.",
+    ],
+    tags: [],
+    image: crm,
+    source_code_link: "https://green-forest-0bef0fd00.7.azurestaticapps.net/",
   },
 ];
 

@@ -29,6 +29,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import ocr from "./ocr.png";
 import agents from "./agents.png";
+import crm from "./crm.png";
 import net from "./tech/net.png";
 import flask from "./tech/flask.png";
 import reactjs from "./tech/react.png";
@@ -106,4 +107,5 @@ export {
   tripguide,
   ocr,
   agents,
+  crm,
 };
